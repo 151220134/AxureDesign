@@ -32,7 +32,7 @@
 - Redux Read Me [En.](https://redux.js.org/)&[Cn.](http://cn.redux.js.org/)
 - [Redux入门教程-阮一峰](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
 - [深入理解React、Redux](https://www.jianshu.com/p/0e42799be566)
-- [react+redux框架配置从无到有直到正常运行全流程](https://blog.csdn.net/lx376693576/article/details/54591142)[下](https://blog.csdn.net/lx376693576/article/details/54602957)
+- react+redux框架配置从无到有直到正常运行全流程[上](https://blog.csdn.net/lx376693576/article/details/54591142)&[下](https://blog.csdn.net/lx376693576/article/details/54602957)
 ## React-Native
 - [ReactJS和React-Native的主要区别在哪里](https://www.zcfy.cc/article/what-are-the-main-differences-between-reactjs-and-react-native-2785.html)
 - [从Android到React Native开发](https://www.jianshu.com/p/97692b1c451d)
