@@ -1,5 +1,5 @@
 ## react伪教程
-### 在开始学习 React 之前，您需要具备以下基础知识：
+### 在开始学习React之前，您需要具备以下基础知识：
 - HTML5
 - CSS
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -7,12 +7,11 @@
 - 因为我们项目中使用的就是antd所以这个**非常有用**，基本上需要用控件的时候找对应的演示代码模仿就能实现 
 ### [react官方文档](https://reactjs.org/docs/hello-world.html)
 - 适合擅长英语的、热爱学习的纯新手
-- 英文的太长不看=>[中文版JSX基础](https://www.jianshu.com/p/7e872afeae42)
-### [菜鸟教程](http://www.runoob.com/react/react-tutorial.html)
+- ~~英文的太长不看~~[中文版JSX基础](https://www.jianshu.com/p/7e872afeae42)
+- [菜鸟教程](http://www.runoob.com/react/react-tutorial.html)
   - [props](http://www.runoob.com/react/react-props.html)
   - [component-api](http://www.runoob.com/react/react-component-api.html)
   - [forms-events](http://www.runoob.com/react/react-forms-events.html)
-
 ### [React入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - 可以作为从零开始的React世界（雾 
 ### [React Native详细入门指南](https://www.jianshu.com/p/fa0874be0827)
