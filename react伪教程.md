@@ -1,10 +1,10 @@
-## React伪教程
+# React伪教程
 ### 在开始学习React之前，您需要具备以下基础知识：
 - HTML5
 - CSS
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 ### [React官方文档](https://reactjs.org/docs/hello-world.html)
-- 适合擅长英语的、热爱学习的纯新手（官方文档重要给点面子看一看
+- 适合擅长英语的、热爱学习的纯新手（官方文档总要给点面子看一看
 - ~~英文的太长不看~~[中文版JSX基础](https://www.jianshu.com/p/7e872afeae42)
 - [**菜鸟教程**](http://www.runoob.com/react/react-tutorial.html)（就是给我们这种人看的
   - [props](http://www.runoob.com/react/react-props.html)
@@ -22,3 +22,5 @@
 ##### 也可以来问我（但十有八九我也不知道、依旧回到上网搜）
 #### 关于写（改）了代码，重新加载页面之后对应页面里却什么也没有，恭喜、一定是代码里出了问题，这时候一个非常有用的[debug工具](https://www.baidu.com/)就可以登场了
 ### 高阶教程：[深入理解 React 高阶组件](https://zhuanlan.zhihu.com/p/24776678)
+
+最后感谢wgc同学邀请我写这个非常不靠谱的教程，相信看过之后还是不会写react，不用担心，因为我也这样
