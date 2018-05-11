@@ -6,8 +6,8 @@
 ### [Ant Design of React](https://ant.design/docs/react/introduce-cn)
 - 因为我们项目中使用的就是antd所以这个**非常有用**，基本上需要用控件的时候找对应的演示代码模仿就能实现 
 ### [react官方文档](https://reactjs.org/docs/hello-world.html)
-- 适合热爱学习的纯新手
-- 什么你没学过JSX？不用担心，那可以先看看[这个](https://www.jianshu.com/p/7e872afeae42)
+- 适合擅长英语的、热爱学习的纯新手
+- 英文的太长不看=>[中文版JSX基础](https://www.jianshu.com/p/7e872afeae42)
 ### [菜鸟教程](http://www.runoob.com/react/react-tutorial.html)
   - [props](http://www.runoob.com/react/react-props.html)
   - [component-api](http://www.runoob.com/react/react-component-api.html)
