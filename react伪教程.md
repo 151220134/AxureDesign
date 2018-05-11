@@ -28,6 +28,8 @@
 
 最后感谢wgc同学邀请我写这个非常不靠谱的教程，相信看过之后还是不会写react，不用担心，因为我也不会
 
+## Redux
+- [Redux Read Me En.](https://redux.js.org/) [Cn.](http://cn.redux.js.org/)
 ## React-Native
 - [ReactJS和React-Native的主要区别在哪里](https://www.zcfy.cc/article/what-are-the-main-differences-between-reactjs-and-react-native-2785.html)
 - [从Android到React Native开发](https://www.jianshu.com/p/97692b1c451d)
