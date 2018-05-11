@@ -10,7 +10,7 @@
   - [props](http://www.runoob.com/react/react-props.html)
   - [component-api](http://www.runoob.com/react/react-component-api.html)
   - [forms-events](http://www.runoob.com/react/react-forms-events.html)
-### [React入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+### [React入门实例教程-阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - 可以作为从零开始的React世界（雾
 ### [React Native详细入门指南](https://www.jianshu.com/p/fa0874be0827)
 - 有助于了解代码大体组成结构和Flex布局，不过仔细看过前面两个、这个不看也可以，当然快速浏览一下也花不了太多时间对啵
@@ -30,6 +30,9 @@
 
 ## Redux
 - Redux Read Me [En.](https://redux.js.org/)&[Cn.](http://cn.redux.js.org/)
+- [Redux入门教程-阮一峰](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+- [深入理解React、Redux](https://www.jianshu.com/p/0e42799be566)
+- [react+redux框架配置从无到有直到正常运行全流程](https://blog.csdn.net/lx376693576/article/details/54591142)[下](https://blog.csdn.net/lx376693576/article/details/54602957)
 ## React-Native
 - [ReactJS和React-Native的主要区别在哪里](https://www.zcfy.cc/article/what-are-the-main-differences-between-reactjs-and-react-native-2785.html)
 - [从Android到React Native开发](https://www.jianshu.com/p/97692b1c451d)
