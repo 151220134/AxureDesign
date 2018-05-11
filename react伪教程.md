@@ -3,7 +3,7 @@
 - 因为我们项目中使用的就是antd所以这个**非常有用**，基本上需要用控件的时候找对应的演示代码模仿就能实现 
 ### [react官方文档](https://reactjs.org/docs/hello-world.html)
 - 适合热爱学习的纯新手
-- 什么你连JSX都不懂？那就去看看[这个](https://www.jianshu.com/p/7e872afeae42)
+- 什么你没学过JSX？那可以先看看[这个](https://www.jianshu.com/p/7e872afeae42)
 ### [React入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - 可以作为从零开始的React世界（雾 
 ### [React Native详细入门指南](https://www.jianshu.com/p/fa0874be0827)
