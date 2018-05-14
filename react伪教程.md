@@ -29,6 +29,8 @@
 最后感谢wgc同学邀请我写这个非常不靠谱的教程，相信看过之后还是不会写react，不用担心，因为我也不会
 
 ## Redux
+- [实例讲解基于 React+Redux 的前端开发流程](https://blog.csdn.net/fengyinchao/article/details/51566555)
+- [Redux进阶系列1：React+Redux项目结构最佳实践](https://www.jianshu.com/p/34468f13263c)
 - Redux Read Me [En.](https://redux.js.org/)&[Cn.](http://cn.redux.js.org/)
 - [Redux入门教程-阮一峰](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
 - [深入理解React、Redux](https://www.jianshu.com/p/0e42799be566)
