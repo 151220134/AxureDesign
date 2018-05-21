@@ -25,6 +25,8 @@
 - [深入理解 React 高阶组件](https://zhuanlan.zhihu.com/p/24776678)
 - [React 组件间通信](http://web.jobbole.com/82999/)
 - [React学习笔记—UI交互](https://segmentfault.com/a/1190000002647357)
+- 认真debug：[console](https://zhuanlan.zhihu.com/p/23080626)
+
 
 最后感谢wgc同学邀请我写这个非常不靠谱的教程，相信看过之后还是不会写react，不用担心，因为我也不会
 
